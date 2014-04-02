@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Pre-show}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Pre Sets-Continuity Hour}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Half Hour}{3}{0}{1}
